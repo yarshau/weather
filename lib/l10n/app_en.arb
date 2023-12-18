@@ -1,0 +1,20 @@
+{
+    "location": "LOCATION",
+    "map": "MAP",
+    "search": "WEATHER",
+    "typeCity": "Type city name...",
+    "lostInternet": "Lost Internet",
+    "pleaseCheck": "Please,\n check your internet connection..",
+    "searchWeather": "Search weather forecast by city",
+    "suchCityNotFound": "Such city was not found",
+    "tryAgain": "Try again...",
+    "maxTemp": "Max",
+    "minTemp": "Min",
+    "avTemp": "Av",
+    "timeZone": "TimeZone",
+    "loading": "Loading",
+    "error": "Error ",
+    "freeVersion": "Free version of App is not supporting such map view \n Please, try again with more accuracy",
+    "language": "Language",
+    "valueCant": "Value Can't Be Empty"
+}
